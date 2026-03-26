@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "hey! hey!",
+  "base_artist": "TWS",
+  "createdAt": "2026-03-26T07:30:15.890320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Hey Helen",
+      "artist": "Lush",
+      "has_synced": false,
+      "path": "select/01_Hey_Hey_Helen_Lush.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey! Hey!",
+      "artist": "Moby & The Void Pacific Choir",
+      "has_synced": true,
+      "path": "select/02_Hey!_Hey!_Moby_&_The_Void_Pacific_Choir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Hey, My My (Into the Black) - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/03_Hey_Hey,_My_My_(Into_the_Black)_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My My, Hey Hey (Out Of The Blue)",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/04_My_My,_Hey_Hey_(Out_Of_The_Blue)_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My My, Hey Hey (Out of the Blue) - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/05_My_My,_Hey_Hey_(Out_of_the_Blue)_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Hey",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/06_Hey_Hey_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Hey, My, My (Into the Black)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Hey_Hey,_My,_My_(Into_the_Black)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Empty Garden (Hey Hey Johnny)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/08_Empty_Garden_(Hey_Hey_Johnny)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Na Na Hey Hey (Kiss Him Goodbye)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/09_Na_Na_Hey_Hey_(Kiss_Him_Goodbye)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey, Hey Helen",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/10_Hey,_Hey_Helen_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Hey We Are Not The Monkees",
+      "artist": "The Justified Ancients of Mu Mu",
+      "has_synced": false,
+      "path": "select/11_Hey_Hey_We_Are_Not_The_Monkees_The_Justified_Ancients_of_Mu_Mu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kansas City / Hey-Hey-Hey-Hey!",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/12_Kansas_City___Hey-Hey-Hey-Hey!_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Hey We're The Junkies",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/13_Hey_Hey_We're_The_Junkies_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Hey Hey!",
+      "artist": "Room Eleven",
+      "has_synced": true,
+      "path": "select/14_Hey_Hey_Hey!_Room_Eleven.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kansas City / Hey-Hey-Hey-Hey! (Take 2)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/15_Kansas_City___Hey-Hey-Hey-Hey!_(Take_2)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kansas City ⁄ Hey‐Hey‐Hey‐Hey! (take 2)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/16_Kansas_City_⁄_Hey‐Hey‐Hey‐Hey!_(take_2)_The_Beatles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hey! hey!",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/pl_01_hey!_hey!_TWS.txt"
+    }
+  ]
+}
